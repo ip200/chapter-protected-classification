@@ -1,8 +1,6 @@
 # Protected probabilistic classification experiments
 
-This repository contains the supporting code to reproduce the experiments
-in the paper "Protected Probabilistic Classification Library" submitted to the conference
-Conformal and Probabilistic Prediction with Application (COPA 2025) (https://copa-conference.com/)
+This repository contains the supporting code for numerical experiments in the Chapter "Protected Probabilistic Classification Library" in the book "The Importance of Being Learnable" by Springer 2026.
 
 The experiments were carried out using Python 3.11.8 and make use of the **protected-classification** library
 (https://github.com/ip200/protected-classification)
